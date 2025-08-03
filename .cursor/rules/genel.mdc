@@ -1,0 +1,5 @@
+---
+alwaysApply: true
+---
+Bir mobil uygulamam var ve bu mobil uygulamada türkçe kuran mealinide göstermek istiyorum. Bundan dolayı kendi sesimle kuran meali oluşturuyorum. Ancak bu kuran meallerini mobil uygulamamda kullanabilmek için bir provider'a ihtyiacım var. Bunun için bir github projesi oluşturmayı tercih ettim. Bu projede de asında onun için geliştirildi. Senden genel isteğim yapılan her değişiklikten README.MD dosyasını okuyup değiştirilmesi gereken bir alan varsa bu alanları değiştirmendir.
+
