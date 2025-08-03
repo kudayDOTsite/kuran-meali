@@ -1,0 +1,532 @@
+{
+  "baseUrl": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main",
+  "sures": {
+    "001": {
+      "name": "Fatiha",
+      "turkishName": "Fâtiha",
+      "arabicName": "الفاتحة",
+      "verseCount": 7,
+      "files": [
+        {
+          "id": 1,
+          "fileName": "1.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/001-fatiha/1.mp3"
+        }
+      ]
+    },
+    "002": {
+      "name": "Bakara",
+      "turkishName": "Bakara",
+      "arabicName": "البقرة",
+      "verseCount": 286,
+      "files": [
+        {
+          "id": 1,
+          "fileName": "1.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/002-bakara/1.mp3"
+        },
+        {
+          "id": 2,
+          "fileName": "2.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/002-bakara/2.mp3"
+        },
+        {
+          "id": 3,
+          "fileName": "3.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/002-bakara/3.mp3"
+        },
+        {
+          "id": 4,
+          "fileName": "4.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/002-bakara/4.mp3"
+        },
+        {
+          "id": 5,
+          "fileName": "5.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/002-bakara/5.mp3"
+        },
+        {
+          "id": 6,
+          "fileName": "6.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/002-bakara/6.mp3"
+        },
+        {
+          "id": 7,
+          "fileName": "7.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/002-bakara/7.mp3"
+        },
+        {
+          "id": 8,
+          "fileName": "8.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/002-bakara/8.mp3"
+        },
+        {
+          "id": 9,
+          "fileName": "9.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/002-bakara/9.mp3"
+        },
+        {
+          "id": 10,
+          "fileName": "10.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/002-bakara/10.mp3"
+        },
+        {
+          "id": 11,
+          "fileName": "11.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/002-bakara/11.mp3"
+        },
+        {
+          "id": 12,
+          "fileName": "12.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/002-bakara/12.mp3"
+        }
+      ]
+    },
+    "036": {
+      "name": "Yasin",
+      "turkishName": "Yasin",
+      "arabicName": "يس",
+      "verseCount": 83,
+      "files": [
+        {
+          "id": 1,
+          "fileName": "1.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/036-yasin/1.mp3"
+        },
+        {
+          "id": 2,
+          "fileName": "2.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/036-yasin/2.mp3"
+        }
+      ]
+    },
+    "038": {
+      "name": "Sad",
+      "turkishName": "Sâd",
+      "arabicName": "ص",
+      "verseCount": 88,
+      "files": [
+        {
+          "id": 1,
+          "fileName": "1.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/038-sad/1.mp3"
+        },
+        {
+          "id": 2,
+          "fileName": "2.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/038-sad/2.mp3"
+        }
+      ]
+    },
+    "039": {
+      "name": "Zumer",
+      "turkishName": "Zümer",
+      "arabicName": "الزمر",
+      "verseCount": 75,
+      "files": [
+        {
+          "id": 1,
+          "fileName": "1.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/039-zumer/1.mp3"
+        }
+      ]
+    },
+    "049": {
+      "name": "Hucurat",
+      "turkishName": "Hucurât",
+      "arabicName": "الحجرات",
+      "verseCount": 18,
+      "files": [
+        {
+          "id": 1,
+          "fileName": "1.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/049-hucurat/1.mp3"
+        }
+      ]
+    },
+    "060": {
+      "name": "Mumtehine",
+      "turkishName": "Mümtehine",
+      "arabicName": "الممتحنة",
+      "verseCount": 13,
+      "files": [
+        {
+          "id": 1,
+          "fileName": "1.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/060-mumtehine/1.mp3"
+        }
+      ]
+    },
+    "061": {
+      "name": "Saff",
+      "turkishName": "Saff",
+      "arabicName": "الصف",
+      "verseCount": 14,
+      "files": [
+        {
+          "id": 1,
+          "fileName": "1.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/061-saff/1.mp3"
+        }
+      ]
+    },
+    "062": {
+      "name": "Cuma",
+      "turkishName": "Cum'a",
+      "arabicName": "الجمعة",
+      "verseCount": 11,
+      "files": [
+        {
+          "id": 1,
+          "fileName": "1.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/062-cuma/1.mp3"
+        }
+      ]
+    },
+    "063": {
+      "name": "Munafikun",
+      "turkishName": "Münâfikûn",
+      "arabicName": "المنافقون",
+      "verseCount": 11,
+      "files": [
+        {
+          "id": 1,
+          "fileName": "1.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/063-munafikun/1.mp3"
+        }
+      ]
+    },
+    "065": {
+      "name": "Talak",
+      "turkishName": "Talâk",
+      "arabicName": "الطلاق",
+      "verseCount": 12,
+      "files": [
+        {
+          "id": 1,
+          "fileName": "1.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/065-talak/1.mp3"
+        }
+      ]
+    },
+    "066": {
+      "name": "Tahrim",
+      "turkishName": "Tahrîm",
+      "arabicName": "التحريم",
+      "verseCount": 12,
+      "files": [
+        {
+          "id": 1,
+          "fileName": "1.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/066-tahrim/1.mp3"
+        }
+      ]
+    },
+    "086": {
+      "name": "Tarik",
+      "turkishName": "Târık",
+      "arabicName": "الطارق",
+      "verseCount": 17,
+      "files": [
+        {
+          "id": 1,
+          "fileName": "1.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/086-tarik/1.mp3"
+        }
+      ]
+    },
+    "091": {
+      "name": "Sems",
+      "turkishName": "Şems",
+      "arabicName": "الشمس",
+      "verseCount": 15,
+      "files": [
+        {
+          "id": 1,
+          "fileName": "1.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/091-sems/1.mp3"
+        }
+      ]
+    },
+    "093": {
+      "name": "Duha",
+      "turkishName": "Duhâ",
+      "arabicName": "الضحى",
+      "verseCount": 11,
+      "files": [
+        {
+          "id": 1,
+          "fileName": "1.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/093-duha/1.mp3"
+        }
+      ]
+    },
+    "094": {
+      "name": "Insirah",
+      "turkishName": "İnşirah",
+      "arabicName": "الشرح",
+      "verseCount": 8,
+      "files": [
+        {
+          "id": 1,
+          "fileName": "1.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/094-insirah/1.mp3"
+        }
+      ]
+    },
+    "095": {
+      "name": "Tin",
+      "turkishName": "Tin",
+      "arabicName": "التين",
+      "verseCount": 8,
+      "files": [
+        {
+          "id": 1,
+          "fileName": "1.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/095-tin/1.mp3"
+        }
+      ]
+    },
+    "097": {
+      "name": "Kadir",
+      "turkishName": "Kadir",
+      "arabicName": "القدر",
+      "verseCount": 5,
+      "files": [
+        {
+          "id": 1,
+          "fileName": "1.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/097-kadir/1.mp3"
+        }
+      ]
+    },
+    "098": {
+      "name": "Beyyine",
+      "turkishName": "Beyyine",
+      "arabicName": "البينة",
+      "verseCount": 8,
+      "files": [
+        {
+          "id": 1,
+          "fileName": "1.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/098-beyyine/1.mp3"
+        }
+      ]
+    },
+    "099": {
+      "name": "Zilzal",
+      "turkishName": "Zilzâl",
+      "arabicName": "الزلزلة",
+      "verseCount": 8,
+      "files": [
+        {
+          "id": 1,
+          "fileName": "1.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/099-zilzal/1.mp3"
+        }
+      ]
+    },
+    "100": {
+      "name": "Adiyat",
+      "turkishName": "Âdiyât",
+      "arabicName": "العاديات",
+      "verseCount": 11,
+      "files": [
+        {
+          "id": 1,
+          "fileName": "1.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/100-adiyat/1.mp3"
+        }
+      ]
+    },
+    "101": {
+      "name": "Karia",
+      "turkishName": "Kâri'a",
+      "arabicName": "القارعة",
+      "verseCount": 11,
+      "files": [
+        {
+          "id": 1,
+          "fileName": "1.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/101-karia/1.mp3"
+        }
+      ]
+    },
+    "102": {
+      "name": "Tekasur",
+      "turkishName": "Tekâsür",
+      "arabicName": "التكاثر",
+      "verseCount": 8,
+      "files": [
+        {
+          "id": 1,
+          "fileName": "1.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/102-tekasur/1.mp3"
+        }
+      ]
+    },
+    "103": {
+      "name": "Asr",
+      "turkishName": "Asr",
+      "arabicName": "العصر",
+      "verseCount": 3,
+      "files": [
+        {
+          "id": 1,
+          "fileName": "1.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/103-asr/1.mp3"
+        }
+      ]
+    },
+    "104": {
+      "name": "Humeze",
+      "turkishName": "Hümeze",
+      "arabicName": "الهمزة",
+      "verseCount": 9,
+      "files": [
+        {
+          "id": 1,
+          "fileName": "1.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/104-humeze/1.mp3"
+        }
+      ]
+    },
+    "105": {
+      "name": "Fil",
+      "turkishName": "Fil",
+      "arabicName": "الفيل",
+      "verseCount": 5,
+      "files": [
+        {
+          "id": 1,
+          "fileName": "1.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/105-fil/1.mp3"
+        }
+      ]
+    },
+    "106": {
+      "name": "Kureys",
+      "turkishName": "Kureyş",
+      "arabicName": "قريش",
+      "verseCount": 4,
+      "files": [
+        {
+          "id": 1,
+          "fileName": "1.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/106-kureys/1.mp3"
+        }
+      ]
+    },
+    "107": {
+      "name": "Maun",
+      "turkishName": "Maun",
+      "arabicName": "الماعون",
+      "verseCount": 7,
+      "files": [
+        {
+          "id": 1,
+          "fileName": "1.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/107-maun/1.mp3"
+        }
+      ]
+    },
+    "108": {
+      "name": "Kevser",
+      "turkishName": "Kevser",
+      "arabicName": "الكوثر",
+      "verseCount": 3,
+      "files": [
+        {
+          "id": 1,
+          "fileName": "1.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/108-kevser/1.mp3"
+        }
+      ]
+    },
+    "109": {
+      "name": "Kafirun",
+      "turkishName": "Kâfirûn",
+      "arabicName": "الكافرون",
+      "verseCount": 6,
+      "files": [
+        {
+          "id": 1,
+          "fileName": "1.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/109-kafirun/1.mp3"
+        }
+      ]
+    },
+    "110": {
+      "name": "Nasr",
+      "turkishName": "Nasr",
+      "arabicName": "النصر",
+      "verseCount": 3,
+      "files": [
+        {
+          "id": 1,
+          "fileName": "1.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/110-nasr/1.mp3"
+        }
+      ]
+    },
+    "111": {
+      "name": "Tebbet",
+      "turkishName": "Tebbet",
+      "arabicName": "المسد",
+      "verseCount": 5,
+      "files": [
+        {
+          "id": 1,
+          "fileName": "1.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/111-tebbet/1.mp3"
+        }
+      ]
+    },
+    "112": {
+      "name": "Ihlas",
+      "turkishName": "İhlâs",
+      "arabicName": "الإخلاص",
+      "verseCount": 4,
+      "files": [
+        {
+          "id": 1,
+          "fileName": "1.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/112-ihlas/1.mp3"
+        }
+      ]
+    },
+    "113": {
+      "name": "Felak",
+      "turkishName": "Felak",
+      "arabicName": "الفلق",
+      "verseCount": 5,
+      "files": [
+        {
+          "id": 1,
+          "fileName": "1.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/113-felak/1.mp3"
+        }
+      ]
+    },
+    "114": {
+      "name": "Nas",
+      "turkishName": "Nâs",
+      "arabicName": "الناس",
+      "verseCount": 6,
+      "files": [
+        {
+          "id": 1,
+          "fileName": "1.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/114-nas/1.mp3"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "totalSures": 35,
+    "totalFiles": 47,
+    "lastUpdated": "2024-08-03",
+    "version": "2.1.0",
+    "description": "Kuran Mealleri - Sesli Kuran Projesi için mobil uygulama config dosyası"
+  }
+} 
