@@ -14,6 +14,44 @@
         }
       ]
     },
+    "004": {
+      "name": "Nisa",
+      "turkishName": "Nisâ",
+      "arabicName": "النساء",
+      "verseCount": 176,
+      "files": [
+        {
+          "id": 1,
+          "fileName": "1.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/004-nisa/1.mp3"
+        },
+        {
+          "id": 2,
+          "fileName": "2.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/004-nisa/2.mp3"
+        },
+        {
+          "id": 3,
+          "fileName": "3.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/004-nisa/3.mp3"
+        },
+        {
+          "id": 4,
+          "fileName": "4.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/004-nisa/4.mp3"
+        },
+        {
+          "id": 5,
+          "fileName": "5.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/004-nisa/5.mp3"
+        },
+        {
+          "id": 6,
+          "fileName": "6.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/004-nisa/6.mp3"
+        }
+      ]
+    },
     "002": {
       "name": "Bakara",
       "turkishName": "Bakara",
@@ -523,10 +561,10 @@
     }
   },
   "metadata": {
-    "totalSures": 35,
-    "totalFiles": 47,
-    "lastUpdated": "2024-08-03",
-    "version": "2.1.0",
+    "totalSures": 36,
+    "totalFiles": 53,
+    "lastUpdated": "2025-08-10",
+    "version": "2.2.0",
     "description": "Kuran Mealleri - Sesli Kuran Projesi için mobil uygulama config dosyası"
   }
 } 
