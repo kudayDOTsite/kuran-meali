@@ -48,6 +48,8 @@ Kuran Mealleri/
 ├── 001-fatiha/           # Fâtiha Suresi
 ├── 002-bakara/           # Bakara Suresi (12 parça)
 ├── 004-nisa/             # Nisâ Suresi (6 parça)
+├── 005-maide/            # Mâide Suresi (2 parça)
+├── 006-enam/             # En'âm Suresi (7 parça)
 ├── 036-yasin/            # Yasin Suresi (2 parça)
 ├── 038-sad/              # Sâd Suresi (2 parça)
 ├── 039-zumer/            # Zümer Suresi
@@ -100,8 +102,8 @@ Her klasör içindeki dosyalar sıralı numaralarla isimlendirilmiştir:
 
 ## 📊 İçerik İstatistikleri
 
-- **Toplam Sure Sayısı:** 36 farklı sure
-- **Toplam Ses Dosyası:** 53 adet MP3 dosyası
+- **Toplam Sure Sayısı:** 38 farklı sure
+- **Toplam Ses Dosyası:** 62 adet MP3 dosyası
 - **Dosya Formatı:** MP3
 - **Dil:** Türkçe Mealler
 - **Klasör İsimlendirme:** Küçük harfli İngilizce karakterler
@@ -114,6 +116,8 @@ Her klasör içindeki dosyalar sıralı numaralarla isimlendirilmiştir:
 | 1 | Fâtiha | 1 | 1.mp3 |
 | 2 | Bakara | 12 | 1.mp3 - 12.mp3 |
 | 4 | Nisâ | 6 | 1.mp3 - 6.mp3 |
+| 5 | Mâide | 2 | 1.mp3, 2.mp3 |
+| 6 | En'âm | 7 | 1.mp3 - 7.mp3 |
 | 36 | Yasin | 2 | 1.mp3, 2.mp3 |
 | 38 | Sâd | 2 | 1.mp3, 2.mp3 |
 | 39 | Zümer | 1 | 1.mp3 |
@@ -192,8 +196,10 @@ const yasinPart2 = require('./036-yasin/2.mp3');
 - Klasör isimleri küçük harfli İngilizce karakterlerle yazılmıştır
 - Dosya isimleri sıralı numaralarla (1.mp3, 2.mp3, ...) düzenlenmiştir
 - Bakara Suresi 12 parça halinde bölünmüştür
+- En'âm Suresi 7 parça halinde bölünmüştür
+- Nisâ Suresi 6 parça halinde bölünmüştür
 - Yasin ve Sâd sureleri 2'şer parça halinde bölünmüştür
- - Nisâ Suresi 6 parça halinde bölünmüştür
+- Mâide Suresi 2 parça halinde bölünmüştür
 
 ## 🔧 Teknik Detaylar
 

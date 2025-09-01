@@ -52,6 +52,67 @@
         }
       ]
     },
+    "005": {
+      "name": "Maide",
+      "turkishName": "Mâide",
+      "arabicName": "المائدة",
+      "verseCount": 120,
+      "files": [
+        {
+          "id": 1,
+          "fileName": "1.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/005-maide/1.mp3"
+        },
+        {
+          "id": 2,
+          "fileName": "2.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/005-maide/2.mp3"
+        }
+      ]
+    },
+    "006": {
+      "name": "Enam",
+      "turkishName": "En'âm",
+      "arabicName": "الأنعام",
+      "verseCount": 165,
+      "files": [
+        {
+          "id": 1,
+          "fileName": "1.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/006-enam/1.mp3"
+        },
+        {
+          "id": 2,
+          "fileName": "2.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/006-enam/2.mp3"
+        },
+        {
+          "id": 3,
+          "fileName": "3.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/006-enam/3.mp3"
+        },
+        {
+          "id": 4,
+          "fileName": "4.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/006-enam/4.mp3"
+        },
+        {
+          "id": 5,
+          "fileName": "5.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/006-enam/5.mp3"
+        },
+        {
+          "id": 6,
+          "fileName": "6.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/006-enam/6.mp3"
+        },
+        {
+          "id": 7,
+          "fileName": "7.mp3",
+          "url": "https://github.com/kudayDOTsite/kuran-meali/raw/refs/heads/main/006-enam/7.mp3"
+        }
+      ]
+    },
     "002": {
       "name": "Bakara",
       "turkishName": "Bakara",
@@ -561,10 +622,10 @@
     }
   },
   "metadata": {
-    "totalSures": 36,
-    "totalFiles": 53,
-    "lastUpdated": "2025-08-10",
-    "version": "2.2.0",
+    "totalSures": 38,
+    "totalFiles": 62,
+    "lastUpdated": "2025-01-27",
+    "version": "2.3.0",
     "description": "Kuran Mealleri - Sesli Kuran Projesi için mobil uygulama config dosyası"
   }
 } 
